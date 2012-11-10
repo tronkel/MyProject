@@ -1,4 +1,0 @@
-MyProject
-=========
-
-another test
